@@ -27,7 +27,7 @@ Sadly, I could not achieve one of the expected goals, which was to build it as a
 
 # App DEMO
 
-https://github.com/ffc1e12/meal-roulette-app-mobile-pagination-level-1_de09c64-6h93g5/assets/113394429/eb4c1095-5ffd-4424-b8f6-3499f5750d97
+https://github.com/Willi0t/meal-roulette-app/assets/113394429/b94cd048-10ef-4ee1-ae48-d33fe7415340
 
 ---
 
